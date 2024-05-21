@@ -45,7 +45,7 @@ This section should link to the official TurtleBot3 assembly manuals and provide
 
 **4. Download package**
 
-   ```
+   ```bash
 git clone -b noetic-devel https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
 git clone -b noetic-devel https://github.com/ROBOTIS-GIT/DynamixelSDK.git
 git clone -b noetic-devel https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
@@ -54,13 +54,13 @@ git clone -b noetic-devel https://github.com/ROBOTIS-GIT/turtlebot3.git
 
 **5. Build the Workspace:**
 
-   ```
+   ```bash
    cd ~/catkin && catkin_make
    ```
 
 **6. Source ROS Environment Variables:**
 
-   ```
+   ```bash
    source ~/catkin_make/devel/setup.bash
    ```
 
