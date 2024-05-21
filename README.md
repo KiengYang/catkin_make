@@ -34,7 +34,7 @@ This section should link to the official TurtleBot3 assembly manuals and provide
 **2. Clone the Repository:**
 
    ```bash
-   git clone https://github.com/KiengYang/catkin_ws.git
+   git clone https://github.com/KiengYang/catkin_make.git
    ```
 
 **3. Navigate to Workspace:**
